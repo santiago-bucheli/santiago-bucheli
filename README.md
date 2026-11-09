@@ -6,10 +6,6 @@
 ### Sobre mí
 Profesional con **perfil híbrido entre Negocio y Tecnología** y más de 3 años de experiencia transformando datos operativos, logísticos y comerciales en decisiones estratégicas. Combino visión financiera y de operaciones (ERP, E-Commerce, Supply Chain) con modelado estadístico, Business Intelligence y Machine Learning en Python.
 
-* **Impacto en negocio:** +12% en tasa de cumplimiento de pedidos mediante modelos de *forecasting* de demanda, +6% en productividad operativa con soluciones BI/PowerApps y >99% en precisión de inventario.
-* **Enfoque analítico:** Diseño de KPIs ejecutivos (ROI, CAC, AOV, *Market Share*, márgenes), automatización con IA vía APIs y aprendizaje automático aplicado a problemas reales de negocio.
-* **Formación adicional:** Ciberseguridad aplicada a la gestión empresarial y riesgos (Bootcamp Google GSEC Málaga).
-
 ---
 
 ### 🛠️ Tech Stack & Herramientas
